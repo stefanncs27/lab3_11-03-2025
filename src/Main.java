@@ -15,7 +15,7 @@ public class Main {
         HashSet<String> set = new HashSet<>();//hashset de tip string pt a nu duplica
         set.add("TEST1");
         set.add("TEST2");//adaugam doua elemente string in set, daca punem test1 de n ori il va afisa doar odata
-        System.out.println(set);//afisare set
+        System.out.println(set);//afisare set [TEST2, TEST1]
     }
 }
 
